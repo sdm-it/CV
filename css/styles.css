@@ -11434,11 +11434,6 @@ section.resume-section .resume-section-content {
   }
 }
 
-ul {
-        columns: 2;
-        -webkit-columns: 2;
-        -moz-columns: 2;
-      }
 .cert-img {
-  max-width: 100%;
+  max-width: 20%;
 }
