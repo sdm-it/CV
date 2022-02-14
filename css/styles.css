@@ -11424,6 +11424,9 @@ section.resume-section .resume-section-content {
   section.resume-section {
     min-height: 100vh;
   }
+  .cert-img {
+    max-width: 20%;
+  }
 }
 @media (min-width: 992px) {
   section.resume-section {
@@ -11435,5 +11438,9 @@ section.resume-section .resume-section-content {
 }
 
 .cert-img {
-  max-width: 20%;
+  max-width: 100%;
 }
+@media (min-width: 768px) {
+  .cert-img {
+    max-width: 20%;
+  }
