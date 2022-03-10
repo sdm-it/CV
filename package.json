@@ -1,0 +1,21 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "CV HTTP server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdm-it/CV/"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "1",
+  "license": "ISC"
+}
